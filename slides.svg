@@ -11,7 +11,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="drawing.svg"
+   sodipodi:docname="slides.svg"
    inkscape:version="0.48+devel r12197"
    version="1.1"
    id="svg2"
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.677644"
-     inkscape:cx="416.4147"
-     inkscape:cy="261.88429"
+     inkscape:cx="429.85717"
+     inkscape:cy="258.93289"
      inkscape:document-units="px"
      inkscape:current-layer="layer19"
      showgrid="false"
@@ -1764,7 +1764,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1772,7 +1772,7 @@
      inkscape:groupmode="layer"
      id="layer19"
      inkscape:label="content"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,-168)">
     <text
        xml:space="preserve"
@@ -1825,25 +1825,29 @@
          sodipodi:role="line"
          x="44.271034"
          y="589.40741"
-         id="tspan26517">sozi</tspan><tspan
+         id="tspan3638">resources</tspan><tspan
          sodipodi:role="line"
          x="44.271034"
          y="639.40741"
-         id="tspan26519">inkscape slide</tspan><tspan
+         id="tspan26517">sozi</tspan><tspan
          sodipodi:role="line"
          x="44.271034"
          y="689.40741"
-         id="tspan26521">magic mockup</tspan><tspan
+         id="tspan26519">inkscape slide</tspan><tspan
          sodipodi:role="line"
          x="44.271034"
          y="739.40741"
+         id="tspan26521">magic mockup</tspan><tspan
+         sodipodi:role="line"
+         x="44.271034"
+         y="789.40741"
          id="tspan26523">credits</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="intro"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,-168)">
     <path
        inkscape:connector-curvature="0"
@@ -3584,7 +3588,7 @@
            y="192.84772">Ellipses</tspan></text>
       <path
          transform="matrix(1.1229491,0,0,1.1229491,-43.822692,138.45631)"
-         d="m 294.00663,303.6203 a 66.339958,66.339958 0 1 1 -132.67992,0 A 66.339958,66.339958 0 1 1 294.00663,303.6203 Z"
+         d="m 294.00663,303.6203 c 0,36.63855 -29.70141,66.33996 -66.33996,66.33996 -36.63855,0 -66.33996,-29.70141 -66.33996,-66.33996 0,-36.63855 29.70141,-66.33996 66.33996,-66.33996 C 264.30522,237.28034 294.00663,266.98175 294.00663,303.6203 Z"
          sodipodi:ry="66.339958"
          sodipodi:rx="66.339958"
          sodipodi:cy="303.6203"
@@ -3594,7 +3598,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(1.1229491,0,0,1.1229491,-64.139887,-2.0709738)"
-         d="m 337.73069,244.81898 a 91.971306,33.169979 0 1 1 -183.94261,0 A 91.971306,33.169979 0 1 1 337.73069,244.81898 Z"
+         d="m 337.73069,244.81898 c 0,18.31928 -41.17696,33.16998 -91.97131,33.16998 -50.79435,0 -91.9713,-14.8507 -91.9713,-33.16998 0,-18.31927 41.17695,-33.16997 91.9713,-33.16997 C 296.55373,211.64901 337.73069,226.49971 337.73069,244.81898 Z"
          sodipodi:ry="33.169979"
          sodipodi:rx="91.971306"
          sodipodi:cy="244.81898"
@@ -3843,7 +3847,7 @@
          transform="translate(13.91447,0)">
         <path
            transform="matrix(1.8885424,0,0,1.8885424,290.8498,-187.68917)"
-           d="m 337.73069,244.81898 a 91.971306,33.169979 0 1 1 -183.94261,0 A 91.971306,33.169979 0 1 1 337.73069,244.81898 Z"
+           d="m 337.73069,244.81898 c 0,18.31928 -41.17696,33.16998 -91.97131,33.16998 -50.79435,0 -91.9713,-14.8507 -91.9713,-33.16998 0,-18.31927 41.17695,-33.16997 91.9713,-33.16997 C 296.55373,211.64901 337.73069,226.49971 337.73069,244.81898 Z"
            sodipodi:ry="33.169979"
            sodipodi:rx="91.971306"
            sodipodi:cy="244.81898"
@@ -3936,7 +3940,7 @@
            sodipodi:cy="244.81898"
            sodipodi:rx="91.971306"
            sodipodi:ry="33.169979"
-           d="m 337.73069,244.81898 a 91.971306,33.169979 0 1 1 -183.94261,0 A 91.971306,33.169979 0 1 1 337.73069,244.81898 Z"
+           d="m 337.73069,244.81898 c 0,18.31928 -41.17696,33.16998 -91.97131,33.16998 -50.79435,0 -91.9713,-14.8507 -91.9713,-33.16998 0,-18.31927 41.17695,-33.16997 91.9713,-33.16997 C 296.55373,211.64901 337.73069,226.49971 337.73069,244.81898 Z"
            transform="matrix(1.8210969,0.50019831,-0.50019831,1.8210969,387.53469,-21.734799)" />
         <rect
            transform="matrix(0.96428703,0.26485945,-0.26485945,0.96428703,0,0)"
@@ -4040,7 +4044,7 @@
      transform="translate(0,-168)">
     <path
        transform="matrix(0.5861631,0,0,0.5861631,25.828093,213.14129)"
-       d="m 604.59824,385.79138 a 143.98785,143.98785 0 1 1 -287.97571,0 A 143.98785,143.98785 0 1 1 604.59824,385.79138 Z"
+       d="m 604.59824,385.79138 c 0,79.5223 -64.46556,143.98786 -143.98786,143.98786 -79.52229,0 -143.98785,-64.46556 -143.98785,-143.98786 0,-79.52229 64.46556,-143.98785 143.98785,-143.98785 C 540.13268,241.80353 604.59824,306.26909 604.59824,385.79138 Z"
        sodipodi:ry="143.98785"
        sodipodi:rx="143.98785"
        sodipodi:cy="385.79138"
@@ -4305,11 +4309,11 @@
     <text
        sodipodi:linespacing="125%"
        id="text7071"
-       y="332.90659"
+       y="332.90662"
        x="119.48232"
        style="font-size:23.44652367px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Oldenburg;-inkscape-font-specification:Oldenburg"
        xml:space="preserve"><tspan
-         y="332.90659"
+         y="332.90662"
          x="119.48232"
          id="tspan7073"
          sodipodi:role="line">by Emily Dirsh: edirsh@redhat.com</tspan></text>
@@ -4317,57 +4321,58 @@
        xml:space="preserve"
        style="font-size:23.44652367px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Oldenburg;-inkscape-font-specification:Oldenburg"
        x="119.48232"
-       y="442.82657"
+       y="493.56543"
        id="text7075"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7077"
          x="119.48232"
-         y="442.82657">Licensed CC BY-SA 2 </tspan><tspan
+         y="493.56543">Licensed CC BY-SA 2 </tspan><tspan
          style="font-size:13.18867016px"
          id="tspan7083"
          sodipodi:role="line"
          x="119.48232"
-         y="462.05255">http://creativecommons.org/licenses/by-sa/2.0/</tspan></text>
+         y="512.79144">http://creativecommons.org/licenses/by-sa/2.0/</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7079"
-       y="388.67569"
+       y="402.07074"
        x="119.48232"
        style="font-size:23.44652367px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Oldenburg;-inkscape-font-specification:Oldenburg"
        xml:space="preserve"><tspan
-         y="388.67569"
+         y="402.07074"
          x="119.48232"
          id="tspan7081"
          sodipodi:role="line">Get the slides at:</tspan><tspan
          id="tspan7085"
-         y="417.98386"
+         y="425.53421"
          x="119.48232"
-         sodipodi:role="line" /></text>
+         sodipodi:role="line"
+         style="font-size:17.5px">https://github.com/EmilyDirsh/Inkscape-ecosystem-slides/</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:23.44652367px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Oldenburg;-inkscape-font-specification:Oldenburg"
        x="119.48232"
-       y="525.01624"
+       y="579.61719"
        id="text7087"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7089"
          x="119.48232"
-         y="525.01624">Fonts:</tspan><tspan
+         y="579.61719">Fonts:</tspan><tspan
          style="font-size:17.58489227px"
          id="tspan7093"
          sodipodi:role="line"
          x="119.48232"
-         y="548.56317">Sigmar One by Vernon Adams (SIL OFL 1.1)</tspan><tspan
+         y="603.16412">Sigmar One by Vernon Adams (SIL OFL 1.1)</tspan><tspan
          style="font-size:17.58489227px"
          id="tspan7095"
          sodipodi:role="line"
          x="119.48232"
-         y="570.54425">Oldenburg by Nicole Fally (SIL OFL 1.1)</tspan><tspan
+         y="625.1452">Oldenburg by Nicole Fally (SIL OFL 1.1)</tspan><tspan
          sodipodi:role="line"
          x="119.48232"
-         y="592.52539"
+         y="647.12634"
          id="tspan7091" /></text>
   </g>
   <style
